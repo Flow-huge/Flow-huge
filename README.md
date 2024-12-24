@@ -16,7 +16,6 @@ public class Main {
     }
 }
 
-Dulat, [17.12.2024 9:28]
 import java.util.Scanner;
 
 public class Cylinder {
@@ -58,7 +57,6 @@ public class Cylinder {
     }
 }
 
-Dulat, [17.12.2024 9:28]
 public class Circle {
     private int radius;
     private double perimeter;
